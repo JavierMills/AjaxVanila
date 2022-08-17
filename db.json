@@ -1,0 +1,45 @@
+{
+  "estatus": [
+      {
+      "paso": "paso1",
+      "descripcion": "Capturar Solcitud"
+    },
+    {
+      "paso": "paso2",
+      "descripcion": "Proceso Pendiente Asesor Comex"
+    },
+    {
+      "paso": "paso3",
+      "descripcion": "Especialista Comex (Rechazos)"
+    }, 
+    {
+      "paso": "paso4",
+      "descripcion": "Proceso Pendiente Contraloría"
+    }, 
+    {
+      "paso": "paso5",
+      "descripcion": "Proceso Pendiente Cartera"
+    }, 
+    {
+      "paso": "paso6",
+      "descripcion": "Fondos de Fomento"
+    },
+     {
+      "paso": "paso7",
+      "descripcion": "Enviada a Nafinet"
+    }, 
+    {
+      "paso": "paso8",
+      "descripcion": "Aprobado Nafinet"
+    }, 
+    {
+      "paso": "paso9",
+      "descripcion": "Rechazo Nafinet"
+    }, 
+    {
+      "paso": "paso10",
+      "descripcion": "Reproceso"
+    }
+
+  ]
+}
